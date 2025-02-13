@@ -41,7 +41,7 @@ Make sure to handle the responce if the requested books was not there in every o
 
 ### **Read Book Information (R)**
 
-#### **Retrieve All Books:**
+#### **Retrieve All Books:**00
 
 - **Endpoint**: `GET /books`
 - **Description**: Fetch the list of all books in the library.
